@@ -12,12 +12,15 @@ I’m a final-year Data Science student at Ho Chi Minh City University of Indust
 ---
 
 ## 🚀 **Projects**
-### 🔗 [AI-Powered Image Recognition](https://github.com/your-username/project-name)  
+### 🔗 [Weather Image Recognition](https://github.com/netprtony/CNN_PridictionWeather)  
 - Built with TensorFlow and OpenCV.  
 - Achieved 95% accuracy in recognizing 50+ object classes.  
 
-### 🔗 [Data Visualization Dashboard](https://github.com/your-username/project-name)  
-- Interactive sales data analysis tool using Python and Plotly.
+### 🔗 [RFID-System-PSO](https://github.com/netprtony/RFID-System-PSO)  
+- The project utilizes the Particle Swarm Optimization (PSO) algorithm to address the RFID Network Plan-
+ning (RNP) problem, focusing on optimizing reader placement to achieve maximum coverage, reduce in-
+terference, and minimize deployment costs. PSO is evaluated and compared with other swarm intelligence
+algorithms, particularly the Firefly Algorithm (FA), demonstrating its superiority in several aspects.
 
 ---
 
@@ -29,7 +32,7 @@ I’m a final-year Data Science student at Ho Chi Minh City University of Indust
 
 ## 📫 **Connect with Me**
 - 📧 **Email**: khang.nguyen@example.com  
-- 🌐 **LinkedIn**: [Khang Nguyen](https://linkedin.com/in/khangnguyen)  
+- 🌐 **LinkedIn**: [Huỳnh Vĩ Khang](https://www.linkedin.com/in/v%C4%A9-khang-hu%E1%BB%B3nh-a86a40315/)  
 
 ---
 
