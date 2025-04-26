@@ -25,8 +25,8 @@ algorithms, particularly the Firefly Algorithm (FA), demonstrating its superiori
 ---
 
 ## 📊 **GitHub Stats**
-![Khang's GitHub stats](https://github-readme-stats.vercel.app/api?username=khangnguyen&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khangnguyen&layout=compact&theme=radical)
+![Khang's GitHub stats](https://github-readme-stats.vercel.app/api?username=netprtony&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhvikhang6a13&layout=compact&theme=radical)
 
 ---
 
