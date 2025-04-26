@@ -31,7 +31,7 @@ algorithms, particularly the Firefly Algorithm (FA), demonstrating its superiori
 ---
 
 ## 📫 **Connect with Me**
-- 📧 **Email**: khang.nguyen@example.com  
+- 📧 **Email**: huynhvikhang6a13@gmail.com  
 - 🌐 **LinkedIn**: [Huỳnh Vĩ Khang](https://www.linkedin.com/in/v%C4%A9-khang-hu%E1%BB%B3nh-a86a40315/)  
 
 ---
